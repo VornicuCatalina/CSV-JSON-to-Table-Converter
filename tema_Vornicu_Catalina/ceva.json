@@ -1,0 +1,20 @@
+[
+    {
+        "nume":"",
+        "prenume": [
+            "Eugen",
+            "emil"
+        ],
+        "varsta":"25"
+    },
+    {
+        "nume":"Vasile",
+        "prenume":"Matei",
+        "varsta":"30"
+    },
+    {
+        "nume":"Vasile",
+        "prenume":"Matei",
+        "varsta":"30"
+    }
+]
